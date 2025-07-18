@@ -1,0 +1,65 @@
+📗 Chapter 1: Introduction to R Programming
+✅ Exercise 1.1: Print “Hello, R!” to the console.
+
+✅ Exercise 1.2: Find the sum, difference, product, and division of 15 and 3.
+
+✅ Exercise 1.3: Assign the value 20 to a variable x and print it.
+
+✅ Exercise 1.4: Check the class of the value "R is awesome!".
+
+✅ Exercise 1.5: Use help(mean) to open help for the mean function.
+
+📘 Chapter 2: Data Types and Variables
+✅ Exercise 2.1: Create a numeric, character, and logical variable and print their types.
+
+✅ Exercise 2.2: Create a vector of numbers from 1 to 5. Find its length and class.
+
+✅ Exercise 2.3: Create a list that contains a number, a string, and a logical value.
+
+✅ Exercise 2.4: Create a matrix with 2 rows and 3 columns filled with numbers from 1 to 6.
+
+✅ Exercise 2.5: Create a dataframe with two columns: Name (character) and Age (numeric), with 3 rows.
+
+📙 Chapter 3: Functions
+✅ Exercise 3.1: Create a function add_numbers() that takes two arguments and returns their sum.
+
+✅ Exercise 3.2: Create a function that returns the square of a number.
+
+✅ Exercise 3.3: Create a function is_even() that returns TRUE if a number is even, else FALSE.
+
+✅ Exercise 3.4: Write a function to calculate the factorial of a number using a for loop.
+
+📒 Chapter 4: Control Structures
+✅ Exercise 4.1: Check if a number is even or odd using if...else.
+
+✅ Exercise 4.2: Print the square of numbers from 1 to 5 using a for loop.
+
+✅ Exercise 4.3: Print numbers from 10 to 1 using a while loop.
+
+✅ Exercise 4.4: Print “Done” 3 times using a repeat loop.
+
+📕 Chapter 5: Data Handling & Exploration
+✅ Exercise 5.1: Load the built-in iris dataset and view its structure using str().
+
+✅ Exercise 5.2: Load a CSV file named students.csv and view the first 6 rows.
+
+✅ Exercise 5.3: Find the number of rows and columns in your dataset using nrow() and ncol().
+
+✅ Exercise 5.4: Print the column names using names().
+
+✅ Exercise 5.5: Use summary() to generate descriptive stats for a numeric column like Score.
+
+📘 Chapter 6: Data Cleaning & Manipulation with dplyr
+✅ Exercise 6.1: Use select() to retrieve only the columns Name and Score.
+
+✅ Exercise 6.2: Use filter() to show rows where Score ≥ 85.
+
+✅ Exercise 6.3: Use arrange() to sort the data by Age in descending order.
+
+✅ Exercise 6.4: Use mutate() to create a column PassFail based on whether Score ≥ 40.
+
+✅ Exercise 6.5: Use group_by() and summarize() to find average Score by Gender.
+
+✅ Exercise 6.6: Group by Gender and count the number of students in each group.
+
+✅ Exercise 6.7: Use a pipeline to filter students with Score > 80, and select Name, Gender, and Score.
