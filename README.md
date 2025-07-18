@@ -1,9 +1,9 @@
-📘 R Programming Language – Exercises, Data & Learning Guide
+# 📘 R Programming Language – Exercises, Data & Learning Guide
 Welcome to your all-in-one R programming practice hub! This repository contains beginner-friendly exercises, real-world datasets, and a step-by-step learning guide to help you master R — from the very basics to data manipulation with dplyr and beyond.
 
 Whether you're just starting your data science journey or reviewing your skills, this repo will guide you through the core concepts with clear examples, clean code, and supportive structure.
 
-📂 Repository Structure
+# 📂 Repository Structure
 📄 R Programming Language.pdf
 A comprehensive, beginner-friendly PDF guide that covers:
 
@@ -19,7 +19,7 @@ A comprehensive, beginner-friendly PDF guide that covers:
 
 ✅ Real-world data cleaning & exploration
 
-📊 students.csv
+# 📊 students.csv
 A clean, sample dataset used for:
 
 Practicing data handling (str(), summary(), names())
@@ -30,7 +30,7 @@ Adding new columns using mutate()
 
 Summarizing scores and grouping by gender
 
-🚀 Topics Covered
+# 🚀 Topics Covered
 Writing custom functions in R
 
 Loops and control structures
@@ -43,7 +43,7 @@ Using dplyr for elegant data manipulation
 
 Exploratory data analysis and string/date handling
 
-✨ How to Use
+# ✨ How to Use
 Clone or download this repository.
 
 Open the .R scripts and PDF in RStudio.
@@ -52,7 +52,7 @@ Use students.csv to try out your own data experiments.
 
 Follow along with the exercises in the PDF for smooth learning.
 
-💡 Perfect For
+# 💡 Perfect For
 📚 Data science students
 
 👨‍💻 R programming beginners
@@ -61,7 +61,7 @@ Follow along with the exercises in the PDF for smooth learning.
 
 🧠 Anyone who loves clean, structured learning
 
-🎉 Happy Coding!
+# 🎉 Happy Coding!
 Explore, experiment, and enjoy the process. Every line of R you write brings you one step closer to becoming a data wizard.
 Let curiosity guide you, and remember:
 
